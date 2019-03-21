@@ -10,6 +10,7 @@ namespace Task_VS_async
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
